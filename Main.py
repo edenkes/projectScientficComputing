@@ -8,5 +8,6 @@ if __name__ == '__main__':
     print("Finshed taking photos")
 
     print("Starting to Calculate the dimension reduction matrix")
-
+    # The algorithm 
     face_recognition()
+
